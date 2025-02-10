@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello! My name is Angela and I'm in the grade 11 computer science course.
